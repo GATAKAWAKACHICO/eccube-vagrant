@@ -75,7 +75,7 @@ $ ./eccube_install.sh pgsql
 ## プロジェクトへのアクセス方法
 
 * Web
-  * IPアドレス直接: [http://192.168.33.10/](http://192.168.33.10/)
+  * IPアドレス直接: [http://192.168.33.10/ec-cube/html/](http://192.168.33.10/ec-cube/html/)
   * PostgreSQL: pgsql:host=192.168.33.10;dbname=cube3_dev
 
 ## Thanks to
